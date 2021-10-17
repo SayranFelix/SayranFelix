@@ -1,6 +1,6 @@
 ## 🔎 Olá! Seja bem-vindo(a) ao meu perfil!
 
-> Eu me chamo **Sayran Felix**, mas pode me chamar por **Polar**, eu tenho 13 anos e sonho em ser um futuro desenvolvedor fullstack, atualmente me especializo na área de front-end e tenho experiência nas linguagens, HTML5, CSS3 e JavaScript, também ando apredendo Python, TypeScript, entre outras... 
+> Eu me chamo **Sayran Felix**, mas pode me chamar por **Polar**, eu tenho 13 anos e sonho em ser um futuro desenvolvedor fullstack, atualmente me especializo na área de front-end e tenho experiência nas linguagens, HTML5, CSS3 e JavaScript, também ando aprendendo Python, TypeScript, entre outras... 
 
 <div>
  <a href="https://github.com/SayranFelix">
